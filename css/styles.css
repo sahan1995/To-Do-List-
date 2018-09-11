@@ -1,0 +1,60 @@
+body{
+    background-color: lightgray !important;;
+} 
+#addlist{
+    margin: auto;
+    position: relative;
+    right: 0;
+  
+    margin-top: 40px;
+    width: 1000px;
+   
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 40px;
+    
+}
+#divtitle{
+    margin: auto;
+    left: 0;
+    position: relative;
+    margin-top: 20px;
+    background:transparent;
+
+
+}
+#divlist{
+    position: relative;
+    margin-left: 40px;
+}
+input {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 0px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-weight: bold;
+ 
+
+}
+::placeholder {
+    color: gray;
+    opacity: 1;
+   font-weight: bold;
+   
+}
+hr{
+   
+    height:30px
+}
+i{
+    display: inline-block;
+}
+#row{
+    
+    margin-top: 70px;
+ 
+    
+}
